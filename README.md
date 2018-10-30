@@ -35,3 +35,5 @@ Optional Advanced Configuration:
 ```
 
 3. Go and checkout your app!
+
+Notice: if served through http, the app might be blocked by Chrome. You might need to enable running unsafe script in copper. Please check the right side of the address bar.
