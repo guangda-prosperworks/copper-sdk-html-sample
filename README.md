@@ -11,7 +11,7 @@ $ python -m SimpleHTTPServer 8080
 # or if you prefer to use node.js
 # npm install -g http-server
 $ http-server
-# or 
+# or [RECOMMENDED]
 $ http-server -S
 ```
 
@@ -34,6 +34,8 @@ Optional Advanced Configuration:
 
 ```
 
-3. Go and checkout your app!
+3. Open browser and visit https://localhost:8080, allow visit
+
+4. Go visit https://app.prosperworks.com and navigate to a people record!
 
 Notice: if served through http, the app might be blocked by Chrome. You might need to enable running unsafe script in copper. Please check the right side of the address bar.
